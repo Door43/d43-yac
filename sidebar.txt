@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yac:home|Door43 (yac)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yac|d43-yac repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yac/archive/master.zip|d43-yac.zip]]
+
+**Recent Changes**
+{{changes>ns = yac}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yac|Ethnologue data]]
+
